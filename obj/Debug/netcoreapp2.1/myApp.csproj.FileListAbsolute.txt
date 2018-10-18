@@ -1,0 +1,11 @@
+/Users/Sheng/Documents/code/C#/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/Sheng/Documents/code/C#/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/Sheng/Documents/code/C#/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/Sheng/Documents/code/C#/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/Sheng/Documents/code/C#/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/Sheng/Documents/code/C#/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
